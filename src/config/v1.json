@@ -1,0 +1,38 @@
+{
+    "1": {
+        "title": "Ethereum mainnet",
+        "rpc": "https://crossverse.io/api/ethereum/rpc",
+        "explorer": "https://etherscan.io",
+        "blocktime": 15,
+        "confirmations": 12,
+        "storefront": "0x501A988A302847cd4A6f4734E37Ab330F0b49F38",
+        "weth": {
+            "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "precision": 18
+        }
+    },
+    "256": {
+        "title": "Huobi ECO Chain Testnet",
+        "rpc": "https://http-testnet.hecochain.com",
+        "explorer": "https://testnet.hecoinfo.com",
+        "blocktime": 3,
+        "confirmations": 1,
+        "storefront": "0x94b02d84A154378b6fE12B38e17d6F6E6d41B5cA",
+        "weth": {
+            "contract": "0xc209f1e9Eaea895cAbAC2873E8567768A864faf5",
+            "precision": 18
+        }
+    },
+    "417": {
+        "title": "ICICB Chain Testnet",
+        "rpc": "https://testnet-rpc.icicbchain.org",
+        "explorer": "https://testnet-explorer.icicbchain.org",
+        "blocktime": 1,
+        "confirmations": 1,
+        "storefront": "0x0baaDC749d1E539339413b861b6e864DeAAEe768",
+        "weth": {
+            "contract": "0x1e450a57c28e7351439CC8b63D32a43374a59645",
+            "precision": 18
+        }
+    }
+}

@@ -1,0 +1,14 @@
+[
+	{
+		"value":0,
+		"label":"All Items"
+	},
+		{
+		"value":10,
+		"label":"brand"
+	},
+	{
+		"value":20,
+		"label":"artist"
+	}
+]
